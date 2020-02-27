@@ -5,12 +5,14 @@
   "module": "./dist/ng2-datepicker.es5.js",
   "es2015": "./dist/ng2-datepicker.js",
   "typings": "./dist/ng2-datepicker.d.ts",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bleenco/ng2-datepicker.git"
+    "url": "git+https://github.com/demonarxs1/ng2-datepicker"
   },
   "authors": [
-    "Jan Kuri <jan@bleenco.com>"
+    "Jan Kuri <jan@bleenco.com>",
+    "Dmitry Shkulnik <demonarxs1@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
