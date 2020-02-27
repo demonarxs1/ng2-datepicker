@@ -1,6 +1,6 @@
 {
-  "name": "ng2-datepicker-fork",
-  "version": "4.0.0",
+  "name": "@demonarxs1/ng2-datepicker-fork",
+  "version": "1.0.0",
   "main": "./dist/bundles/ng2-datepicker.umd.js",
   "module": "./dist/ng2-datepicker.es5.js",
   "es2015": "./dist/ng2-datepicker.js",
