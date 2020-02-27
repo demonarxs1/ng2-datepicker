@@ -1,11 +1,10 @@
 {
-  "name": "@demonarxs1/ng2-datepicker-fork",
-  "version": "1.0.0",
+  "name": "ng2-datepicker-fork",
+  "version": "1.3.0",
   "main": "./dist/bundles/ng2-datepicker.umd.js",
   "module": "./dist/ng2-datepicker.es5.js",
   "es2015": "./dist/ng2-datepicker.js",
   "typings": "./dist/ng2-datepicker.d.ts",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/demonarxs1/ng2-datepicker"
@@ -69,6 +68,7 @@
   "dependencies": {
     "date-fns": "^1.30.1",
     "ngx-slimscroll": "^8.1.0",
+    "ngx-slimscroll-fork": "9.1.3",
     "tslib": "^1.10.0"
   }
 }
